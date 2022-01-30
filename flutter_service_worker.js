@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "index.html": "d8fd0597ecb200b61409296a877606b1",
-"/": "d8fd0597ecb200b61409296a877606b1",
+  "index.html": "934aebbb29ad9b838c753f45fc0de2ab",
+"/": "934aebbb29ad9b838c753f45fc0de2ab",
 "version.json": "db8990b8a733cdd52065ba1549ba9aa5",
 "manifest.json": "6cbe41637e331ef626d9a50c26f95fc1",
-"main.dart.js": "add2791bbc72d305e1f35e8ba530fbf7",
+"main.dart.js": "243f48ec86f13819e2cad8590fdd15df",
 "style.css": "ffba23ff301032bec9a3922e763ddcca",
 "canvaskit/profiling/canvaskit.wasm": "a9610cf39260f60fbe7524a785c66101",
 "canvaskit/profiling/canvaskit.js": "f3bfccc993a1e0bfdd3440af60d99df4",
@@ -41,13 +41,13 @@ const RESOURCES = {
 "assets/assets/contact_me/constant/ciocce.jpg": "b186b11c8fbbd8e48f79dbb79a54bebb",
 "assets/assets/home/constant/facebook.png": "9c8bf990645fc6189df6caedab34628c",
 "assets/assets/home/constant/medium.png": "5a77eaa1f4fc98e76a2129c5ebaa119a",
-"assets/assets/home/constant/twitter.png": "babebb599190a8bd5bb5417e4f7fdcad",
+"assets/assets/home/constant/twitter.png": "3a20f0fc87bf5ad851182d6681903770",
 "assets/assets/home/constant/stackoverflow.png": "c9fe76704b498db68c7d263216b9e680",
 "assets/assets/home/constant/linkedin.png": "f23f5409fa61de28d92d02527411c140",
 "assets/assets/home/constant/instagram.png": "6a5e75ccceace8a900c3ca017bb5933b",
 "assets/assets/home/constant/link.png": "6bd16f15b5c2d30c08557a84b776f3a6",
 "assets/assets/home/constant/github.png": "9b1ceae0aa31486938531880614681a3",
-"assets/assets/home/constant/email.png": "b4ac60cde3dabbe4bc1b8b7c88dc4585",
+"assets/assets/home/constant/email.png": "0ae11c7c131c4152f3279d35526388ff",
 "assets/assets/experience/kofi.png": "5132bddcb9ce0828888c91a08f35a2ec",
 "assets/assets/experience/GDSC.png": "a144476dba333629f9a232e8c7cd64bf",
 "assets/assets/experience/credanic.png": "27b5605cf2f3291e4cfe71f4f97daaf2",
@@ -59,7 +59,7 @@ const RESOURCES = {
 "assets/assets/projects/kofi.png": "18eab84f712861e838db43a0186d336a",
 "assets/assets/projects/stxaviers.png": "54936ceae932c0337c5c4096d2bf6037",
 "assets/assets/projects/rcciit.png": "e549f157d5783656caeb1f605259b897",
-"assets/assets/projects/onelastnight.png": "8cf49e71248b27ad408245fe4f923d59",
+"assets/assets/projects/onelastnight.png": "ea413861a3d6bfa50df51e412ab97e70",
 "assets/assets/projects/gitaram.png": "e0c528ff1e67d954a6039ce204c38c8f"
 };
 
