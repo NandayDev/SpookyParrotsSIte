@@ -3,11 +3,11 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "index.html": "323bfcc4b4c6d12415d72d53f0f40255",
-"/": "323bfcc4b4c6d12415d72d53f0f40255",
+  "index.html": "d8fd0597ecb200b61409296a877606b1",
+"/": "d8fd0597ecb200b61409296a877606b1",
 "version.json": "db8990b8a733cdd52065ba1549ba9aa5",
 "manifest.json": "6cbe41637e331ef626d9a50c26f95fc1",
-"main.dart.js": "471315d05e6a42203d41ecf959a80040",
+"main.dart.js": "add2791bbc72d305e1f35e8ba530fbf7",
 "style.css": "ffba23ff301032bec9a3922e763ddcca",
 "canvaskit/profiling/canvaskit.wasm": "a9610cf39260f60fbe7524a785c66101",
 "canvaskit/profiling/canvaskit.js": "f3bfccc993a1e0bfdd3440af60d99df4",
@@ -15,7 +15,7 @@ const RESOURCES = {
 "canvaskit/canvaskit.js": "43fa9e17039a625450b6aba93baf521e",
 "CNAME": "29aef196e8236e18fc155f43d056da57",
 "assets/FontManifest.json": "f0f4be009d67b49f6afb66286f706923",
-"assets/AssetManifest.json": "336ca805d54c6557ea82f346d566e9b5",
+"assets/AssetManifest.json": "d87022634517013b9011b9b8fdc0ea96",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
 "assets/NOTICES": "9ea44ef08947c670ca156ea04d29f218",
@@ -34,6 +34,7 @@ const RESOURCES = {
 "assets/assets/what_i_do/flutter.png": "5b26614dbdbcf4b3ecb80bed00ad3702",
 "assets/assets/what_i_do/c.png": "9f6665a404d1b2384b4a90419ad08fd2",
 "assets/assets/contact_me/picture.png": "13a4b677d9fa726efd9e771189222bf5",
+"assets/assets/contact_me/spookyparrots.png": "50b67e296839a45a466013dab2162b9c",
 "assets/assets/contact_me/constant/picture.png": "1a817a95a42d8c43031378d122a05ffe",
 "assets/assets/contact_me/constant/location.png": "dbc10b089546daaee5c45d9bb754f989",
 "assets/assets/contact_me/constant/location-dark.png": "08a65e7c79b85fbcb40e8fce00953e47",
@@ -55,14 +56,11 @@ const RESOURCES = {
 "assets/assets/experience/opensource.png": "997db9ffb7f57a2c0ef1323c6056c44b",
 "assets/assets/experience/coding-ninjas.png": "5b94a7d8ef90a9b60a3967745e044778",
 "assets/assets/experience/rcctechz.png": "40de2922a15538d96a1210fd9eb8457c",
-"assets/assets/projects/constant/forks.png": "84f1baf0bcf3b4cf3ea5edb36548e069",
-"assets/assets/projects/constant/stars.png": "449614124a2ef5910c35e1e9d62aec5e",
-"assets/assets/education/kofi.png": "18eab84f712861e838db43a0186d336a",
-"assets/assets/education/stxaviers.png": "54936ceae932c0337c5c4096d2bf6037",
-"assets/assets/education/rcciit.png": "e549f157d5783656caeb1f605259b897",
-"assets/assets/education/onelastnight.png": "8cf49e71248b27ad408245fe4f923d59",
-"assets/assets/education/gitaram.png": "e0c528ff1e67d954a6039ce204c38c8f",
-"assets/assets/education/constant/education.png": "1ebc9c3cdde631ddd2f356001c79eceb"
+"assets/assets/projects/kofi.png": "18eab84f712861e838db43a0186d336a",
+"assets/assets/projects/stxaviers.png": "54936ceae932c0337c5c4096d2bf6037",
+"assets/assets/projects/rcciit.png": "e549f157d5783656caeb1f605259b897",
+"assets/assets/projects/onelastnight.png": "8cf49e71248b27ad408245fe4f923d59",
+"assets/assets/projects/gitaram.png": "e0c528ff1e67d954a6039ce204c38c8f"
 };
 
 // The application shell files that are downloaded before a service worker can
