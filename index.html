@@ -65,11 +65,18 @@
   </div>
 
   <script>
-    var serviceWorkerVersion = '862944707';
+    var serviceWorkerVersion = '312380039';
+    var isSafari = navigator.vendor && navigator.vendor.indexOf('Apple') > -1 &&
+               navigator.userAgent &&
+               navigator.userAgent.indexOf('CriOS') == -1 &&
+               navigator.userAgent.indexOf('FxiOS') == -1;
     var scriptLoaded = false;
     function loadMainDartJs() {
       if (scriptLoaded) {
         return;
+      }
+      if (isSafari) {
+        //document.body.innerHTML = '';
       }
       scriptLoaded = true;
       var scriptTag = document.createElement('script');
