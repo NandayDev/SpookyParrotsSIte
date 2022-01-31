@@ -51673,7 +51673,7 @@ A.a3D.prototype={
 $0(){},
 $S:0}
 A.a3C.prototype={
-$1(a){if(a.a==="/donations")A.AA(B.dA,new A.a3B(),t.P)},
+$1(a){A.AA(B.dA,new A.a3B(),t.P)},
 $S:323}
 A.a3B.prototype={
 $0(){$.wT().pQ(0,B.dB,2)},
